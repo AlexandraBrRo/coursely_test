@@ -1,0 +1,22 @@
+<svg width="59" height="59" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="59" height="59" fill="#DAD9D9"/>
+<g id="Desktop" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="8070" transform="translate(0 -2624)" fill="white"/>
+<g id="Frame">
+<g id="Frame_2">
+<path id="Rectangle" d="M0 0H1440V424H0V0Z" fill="#017CFF"/>
+<g id="IMAGE" clip-path="url(#clip1_0_1)">
+<path id="Vector" d="M59 0H0V59H59V0Z" fill="#E48D8B"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="8070" fill="white" transform="translate(0 -2624)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="59" height="59" fill="white"/>
+</clipPath>
+</defs>
+</svg>
